@@ -1,0 +1,8 @@
+p {
+    font-size: 28px;
+    font-weight: bolder;
+    color: red;
+    position: absolute;
+    top: 130px;
+    left: 20%;
+}
